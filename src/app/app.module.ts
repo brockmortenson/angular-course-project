@@ -8,7 +8,8 @@ import { AppRoutingModule } from './app-routing.module';
 import { SharedModule } from './shared/shared.module';
 import { CoreModule } from './core.module';
 
-// First commit
+// App URL: https://ng-course-recipe-book-c241a.web.app/
+
 @NgModule({
   declarations: [
     AppComponent,
